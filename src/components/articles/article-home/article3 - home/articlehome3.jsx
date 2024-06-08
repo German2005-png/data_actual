@@ -8,7 +8,7 @@ export function ArticleHome3(){
                 <li className='cont-articlehome3-li'>
                     <article className='article-articlehome3' key={article.id}>
                         <a className='article-articlehome3-a' href="">
-                            <img src={`../../public/img/${article.img}`} alt="" />
+                            <img src={`/img/${article.img}`} alt="" />
                         </a>
                         <a className='article-articlehome3-title' href="">{article.title}</a>
                     </article>
