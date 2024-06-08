@@ -1,0 +1,41 @@
+/* content-articlehome3 */
+
+.content-articlehome3{
+    display: flex;
+    padding: 10px 0px;
+    gap: 15px;
+    justify-content: center;
+    width: 100%;
+}
+.cont-articlehome3-li{
+    width: 100%;
+    max-width: 324px;
+    display: flex;
+}
+
+.article-articlehome3{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    gap: 10px;
+}
+
+.article-articlehome3 a{
+    display: flex;
+    width: 100%;
+}
+
+.article-articlehome3 a img{
+    display: flex;
+    width: 100%;
+}
+
+.article-articlehome3-title{
+    display: flex;
+    text-decoration: none;
+    color: #fff;
+    width: 100%;
+    max-width: 324px;
+    white-space: pre-line;
+    font-size: 24px;
+}

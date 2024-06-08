@@ -1,0 +1,28 @@
+{
+    "article1": [
+        {
+            "id": 1,
+            "title": "EL DNU DE MILEI",
+            "description": "Sed accumsan posuere velit sodales pellentesque. Morbi non diam maximus, scelerisque dolor vitae, dictum eros. Nulla diam turpis, feugiat ac nibh in, auctor viverra odio. Cras aliquam velit ut dictum ultrices. Vestibulum vulputate lobortis leo feugiat feugiat. Cras ultricies sit amet velit ut finibus. Nam ac ex turpis. Curabitur commodo nisl sed ex rhoncus aliquam. Praesent mattis sagittis leo, ut condimentum dolor porta ut.",
+            "img": "milei.png"
+        },
+        {
+            "id": 2,
+            "title": "LA LEY BASES SE APROBO EN GENERAL CON 144 DIPUTADOS",
+            "description": "",
+            "img": "votacion.png"
+        },
+        {
+            "id": 3,
+            "title": "NAYID BUKELE GANA LAS ELECCIONES CON EL 87% DEL PADRON",
+            "description": "",
+            "img": "bukele.png"
+        },
+        {
+            "id": 4,
+            "title": "",
+            "description": "",
+            "img": "crypt.png"
+        }
+    ]
+}

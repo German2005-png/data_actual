@@ -1,0 +1,28 @@
+{
+    "article2": [
+        {
+            "id": 5,
+            "title": "LA SUB 23 GOLEO A CHILE CON UN RESULTADO DE 5-0",
+            "description": "",
+            "img": "equipoArgentina.png"
+        },
+        {
+            "id": 6,
+            "title": "KICILLOF CRITICO LAS MEDIDAS DE MILEI",
+            "description": "",
+            "img": "laCasta.png"
+        },
+        {
+            "id": 7,
+            "title": "PATRICIA BULLRICH DIJO SI AL PLAN DE BUKELE",
+            "description": "",
+            "img": "laPato.png"
+        },
+        {
+            "id": 8,
+            "title": "NUEVA CEPA DE CORONAVIRUS ?",
+            "description": "",
+            "img": "cepaDeCoronavirus.png"
+        }
+    ]
+}
